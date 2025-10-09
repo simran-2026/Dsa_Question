@@ -1,0 +1,32 @@
+class Solution {
+    public String smallestNumber(int s, int d) {
+       
+        if(s < 1 || s > d *9){
+            return "-1";
+        }
+        
+        char [] res = new char[d];
+        Arrays.fill(res, '0');
+        
+        s--;
+        
+        for( int i = d-1; i>0;i--){
+            if(s >9){
+                res[i] ='9';
+                s-=9;
+            }else{
+                res[i] = (char)('0'+s);
+                s=0;
+            }
+        }
+        
+        
+        
+        res[0] = (char)('1'+s);
+        
+        return new String(res);
+        
+        
+        
+    }
+}

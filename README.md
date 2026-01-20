@@ -44,3 +44,15 @@ Welcome to my Daily DSA Questions repository! Here, I post one Data Structures a
 4. Repeat daily!
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+<!---LeetCode Topics End-->

@@ -50,9 +50,18 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

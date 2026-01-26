@@ -51,6 +51,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
+| [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
 |  |
@@ -68,4 +69,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/simran-2026/Dsa_Question/tree/master/1204-last-person-to-fit-in-the-bus) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->

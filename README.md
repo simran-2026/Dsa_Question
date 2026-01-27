@@ -69,6 +69,7 @@ Happy Coding! 🚀
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/simran-2026/Dsa_Question/tree/master/0626-exchange-seats) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/simran-2026/Dsa_Question/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Sorting
 |  |

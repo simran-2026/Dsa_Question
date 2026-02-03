@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -113,5 +115,6 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

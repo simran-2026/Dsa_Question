@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/simran-2026/Dsa_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/simran-2026/Dsa_Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/simran-2026/Dsa_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/simran-2026/Dsa_Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3634-minimum-removals-to-balance-array](https://github.com/simran-2026/Dsa_Question/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |

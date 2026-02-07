@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
@@ -135,4 +137,8 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/simran-2026/Dsa_Question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/simran-2026/Dsa_Question/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->

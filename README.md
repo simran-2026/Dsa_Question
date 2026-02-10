@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/simran-2026/Dsa_Question/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/simran-2026/Dsa_Question/tree/master/0015-3sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/simran-2026/Dsa_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/simran-2026/Dsa_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming

@@ -1,47 +1,30 @@
-class GFG {
+class Solution {
     
-    static int first(int[] arr, int x) {
-        int low = 0, high = arr.length - 1;
-        int ans = -1;
-        
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            
-            if (arr[mid] == x) {
-                ans = mid;
-                high = mid - 1;   // go left
-            } else if (arr[mid] > x) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+    public static int first(int[]arr,int x){
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==x){
+                return i;
             }
         }
-        return ans;
+        return -1;
     }
-    
-    static int last(int[] arr, int x) {
-        int low = 0, high = arr.length - 1;
-        int ans = -1;
-        
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            
-            if (arr[mid] == x) {
-                ans = mid;
-                low = mid + 1;   // go right
-            } else if (arr[mid] > x) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+    public static int last(int []arr, int x){
+        int n =arr.length;
+        for(int i = n-1;i>=0;i--){
+            if(arr[i]==x){
+                return i;
             }
         }
-        return ans;
+        return -1;
     }
+    
+    
     
     ArrayList<Integer> find(int arr[], int x) {
-        ArrayList<Integer> res = new ArrayList<>();
-        res.add(first(arr, x));
-        res.add(last(arr, x));
+        // code here
+        ArrayList<Integer>res =new ArrayList<>();
+        res.add(first(arr,x));
+        res.add(last(arr,x));
         return res;
     }
 }

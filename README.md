@@ -73,6 +73,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/simran-2026/Dsa_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->

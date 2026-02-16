@@ -67,6 +67,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/simran-2026/Dsa_Question/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/simran-2026/Dsa_Question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## String
 |  |
@@ -152,4 +153,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/simran-2026/Dsa_Question/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

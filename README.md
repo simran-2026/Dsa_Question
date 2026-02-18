@@ -50,6 +50,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/simran-2026/Dsa_Question/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/simran-2026/Dsa_Question/tree/master/0015-3sum) |
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0001-two-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |

@@ -1,37 +1,40 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
+
         Arrays.sort(nums);
-
-        int j = 0;
-        while (j < nums.length - 2) {
-
-            if (j > 0 && nums[j] == nums[j - 1]) {
-                j++;
+        int i=0;
+        int n = nums.length;
+        while(i < nums.length-2){
+             if(i>0 && nums[i]==nums[i-1]){
+                i++;
                 continue;
-            }
-
-            int i = j + 1;
-            int k = nums.length - 1;
-
-            while (i < k) {
-                int sum = nums[j] + nums[i] + nums[k];
-
-                if (sum == 0) {
-                    res.add(Arrays.asList(nums[j], nums[i], nums[k]));
-                    i++;
-                    k--;
-
-                    while (i < k && nums[i] == nums[i - 1]) i++;
-                    while (i < k && nums[k] == nums[k + 1]) k--;
-
-                } else if (sum > 0) {
-                    k--;
-                } else {
-                    i++;
+             }
+             int left = i+1;
+             int right= nums.length-1;
+             while(left<right){
+                 int val = nums[i]+nums[left]+nums[right];
+               
+                if(val == 0){
+                List<Integer> ans = new ArrayList<>();
+                    ans.add(nums[i]);
+                    ans.add(nums[left]);
+                    ans.add(nums[right]);
+                    res.add(ans);
+                    left++;
+                    right--;
+                while( left < right && nums[left]== nums[left-1] )left++;
+                while( left <right && nums[right]==nums[right+1])right--;
+               
+                }else if(val>0){
+                    right--;
+                }else{
+                    left++;
                 }
-            }
-            j++;
+
+               
+             }
+              i++;
         }
         return res;
     }

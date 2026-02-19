@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simran-2026/Dsa_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/simran-2026/Dsa_Question/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |

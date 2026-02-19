@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/simran-2026/Dsa_Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/simran-2026/Dsa_Question/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simran-2026/Dsa_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |

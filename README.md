@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/simran-2026/Dsa_Question/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/simran-2026/Dsa_Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/simran-2026/Dsa_Question/tree/master/0018-4sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/simran-2026/Dsa_Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -147,6 +149,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |

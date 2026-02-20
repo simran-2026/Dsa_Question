@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/simran-2026/Dsa_Question/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/simran-2026/Dsa_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -151,6 +152,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/simran-2026/Dsa_Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/simran-2026/Dsa_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/simran-2026/Dsa_Question/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/simran-2026/Dsa_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/simran-2026/Dsa_Question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers

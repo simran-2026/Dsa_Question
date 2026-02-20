@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/simran-2026/Dsa_Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/simran-2026/Dsa_Question/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/simran-2026/Dsa_Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -158,6 +160,7 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/simran-2026/Dsa_Question/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/simran-2026/Dsa_Question/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |

@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/simran-2026/Dsa_Question/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/simran-2026/Dsa_Question/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
+| [0746-min-cost-climbing-stairs](https://github.com/simran-2026/Dsa_Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simran-2026/Dsa_Question/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1200-minimum-absolute-difference](https://github.com/simran-2026/Dsa_Question/tree/master/1200-minimum-absolute-difference) |
@@ -127,6 +128,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/simran-2026/Dsa_Question/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/simran-2026/Dsa_Question/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy

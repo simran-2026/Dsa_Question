@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/simran-2026/Dsa_Question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/simran-2026/Dsa_Question/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/simran-2026/Dsa_Question/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/simran-2026/Dsa_Question/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +128,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/simran-2026/Dsa_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/simran-2026/Dsa_Question/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/simran-2026/Dsa_Question/tree/master/0746-min-cost-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |

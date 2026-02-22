@@ -88,6 +88,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
+| [0127-word-ladder](https://github.com/simran-2026/Dsa_Question/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -164,6 +165,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/simran-2026/Dsa_Question/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/simran-2026/Dsa_Question/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -207,4 +209,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/simran-2026/Dsa_Question/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

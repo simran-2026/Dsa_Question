@@ -87,6 +87,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simran-2026/Dsa_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/simran-2026/Dsa_Question/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/simran-2026/Dsa_Question/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
@@ -147,6 +148,7 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simran-2026/Dsa_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/simran-2026/Dsa_Question/tree/master/0904-fruit-into-baskets) |
@@ -164,6 +166,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/simran-2026/Dsa_Question/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/simran-2026/Dsa_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/simran-2026/Dsa_Question/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/simran-2026/Dsa_Question/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/simran-2026/Dsa_Question/tree/master/0128-longest-consecutive-sequence) |

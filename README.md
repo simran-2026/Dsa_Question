@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/simran-2026/Dsa_Question/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/simran-2026/Dsa_Question/tree/master/0692-top-k-frequent-words) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/simran-2026/Dsa_Question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/simran-2026/Dsa_Question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/simran-2026/Dsa_Question/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/simran-2026/Dsa_Question/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/simran-2026/Dsa_Question/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/simran-2026/Dsa_Question/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Enumeration
 |  |
